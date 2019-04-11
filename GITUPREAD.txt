@@ -1,6 +1,6 @@
 {
-"Data":"https://www.baidu.com",
+"Data":"",
 "Message":"success",
-"StatusCode":"300",
+"StatusCode":"400",
 "Explain":"Data: url，StatusCode：300 open  400 close"
 }
