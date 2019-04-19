@@ -1,6 +1,6 @@
 {
-"Data":"",
+"Data":"https://93777.cc",
 "Message":"success",
-"StatusCode":"400",
+"StatusCode":"300",
 "Explain":"Data: url，StatusCode：300 open  400 close"
 }
