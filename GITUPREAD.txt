@@ -1,5 +1,5 @@
 {
-"Data":"https://93777.cc",
+"Data":"https://a0205.cn",
 "Message":"success",
 "StatusCode":"300",
 "Explain":"Data: url，StatusCode：300 open  400 close"
